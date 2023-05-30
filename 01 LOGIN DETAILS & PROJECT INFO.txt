@@ -1,7 +1,3 @@
 
 
-Username: admin@mail.com
-Password: codeastro.com
-
-
 
